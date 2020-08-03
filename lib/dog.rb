@@ -1,6 +1,6 @@
 class Dog 
 end
 
-parker = Dog.new 
-shadow = Dog.new
-snowflake = Dog.new
+fido = Dog.new 
+snoopy = Dog.new
+lassie = Dog.new
